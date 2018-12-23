@@ -1,7 +1,7 @@
 ﻿namespace Useless
 {
     /// <summary>
-    /// SingleMe classs.
+    /// SingleMe class.
     /// </summary>
     public class SingleMe
     {
