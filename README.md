@@ -1,2 +1,2 @@
 # useless
-Absolutely useless code
+Absolutely useless code, no doubt.
