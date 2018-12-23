@@ -5,13 +5,13 @@
     /// </summary>
     public class SingleMe
     {
-        public static readonly SingleMe Instance = new SingleMe();
+        public static readonly SingleMe Me = new SingleMe();
 
         private SingleMe() { }
 
-        public override string ToString()
+        public string Greet(string person)
         {
-            return "Single Me!";
+            return $"Aloha, {person}!";
         }
     }
 }
